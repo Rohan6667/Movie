@@ -1,5 +1,4 @@
-   <div class="episode-selector">
-        <label for="episode-select">Select Episode:</label>
+   
 
 const episodes = [
   { title: "Episode 1: saukiya hindi part 2", videoSrc: "https://www.filmyzilla.com.fj/downloads/16433/12/server_1/" },
