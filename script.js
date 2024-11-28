@@ -1,7 +1,10 @@
+   <div class="episode-selector">
+        <label for="episode-select">Select Episode:</label>
+
 const episodes = [
-  { title: "Episode 1: saukiya hindi part 2", videoSrc: "https://video.maalcdn.com/ULLU/Shaukiya/Shaukiya%20Episode%201.mp4" },
-  { title: "Episode 2: saukiya hindi part 2", videoSrc: "https://video.maalcdn.com/ULLU/Shaukiya/Shaukiya%20Episode%202.mp4" },
-  { title: "Episode 3: saukiya hindi part 2", videoSrc: "https://video.maalcdn.com/ULLU/Shaukiya/Shaukiya%20Episode%203.mp4" },
+  { title: "Episode 1: saukiya hindi part 2", videoSrc: "https://www.filmyzilla.com.fj/downloads/16433/12/server_1/" },
+  { title: "Episode 2: saukiya hindi part 2", videoSrc: "https://www.filmyzilla.com.fj/downloads/16404/11/server_4/" },
+  { title: "Episode 3: saukiya hindi part 2", videoSrc: "https://www.filmyzilla.com.fj/downloads/16405/1/server_4/" },
     { title: "Episode 4: saukiya hindi part 2", videoSrc: "https://video.maalcdn.com/ULLU/Shaukiya/Shaukiya%20Episode%204.mp4" },
   { title: "Episode 5 : saukiya hindi part 2", videoSrc: "https://video.maalcdn.com/ULLU/Shaukiya/Shaukiya%20Episode%205.mp4" },
   { title: "Episode 6: saukiya hindi part 2", videoSrc: "https://video.maalcdn.com/ULLU/Shaukiya/Shaukiya%20Episode%206.mp4" }
